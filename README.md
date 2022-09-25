@@ -2,6 +2,7 @@
 OOAD(Object Oriented Analysis and Design)
 
 The name of this project is "UML editor".
+The whole project is written by using java swing.
 
 Here below is the UML diagram of whole project and an using example.
 (If you can't see it clearly, you can zoom in. The resolution of the picture is big enough to see it clearly.)
